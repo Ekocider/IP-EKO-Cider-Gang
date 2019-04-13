@@ -1,0 +1,3 @@
+Intel®CoreTMi5-7200U 2.5GHz with Turbo Boost up to 3.1GHz
+NVIDIA®GeForce®940MX with 2 GB Deticated VRAM
+8 GB DDR4 Memory			128 GB  SSD +1 TB HDD
